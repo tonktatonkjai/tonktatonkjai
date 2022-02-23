@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TonktaTonkjai</h1>
 <h3 align="center">Dev(pilot)op from Thailand</h3>
 
-- 🔭 I’m currently working on **AIS**
+- 🔭 I’m currently working on **Arctica**
 
 - 📫 How to reach me **tonktatonkjai@gmail.com**
 
